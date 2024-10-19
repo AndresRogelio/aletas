@@ -32,3 +32,6 @@ Las contribuciones son bienvenidas. Si deseas colaborar, por favor crea un fork 
   - `multcomp`: [CRAN](https://cran.r-project.org/web/packages/multcomp/index.html)
   - `FSA`: [CRAN](https://cran.r-project.org/web/packages/FSA/index.html)
   - `ggstatsplot`: [GitHub](https://github.com/IndrajeetPatil/ggstatsplot)
+
+- **Recursos Adicionales**:
+  - Para más información sobre análisis de datos en R, puedes consultar el manual "Introducción a R y RStudio" del profesor José Ulises Jimenez. [ridda2.utp.ac.pa](https://ridda2.utp.ac.pa/handle/123456789/9428)
