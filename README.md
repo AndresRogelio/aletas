@@ -18,4 +18,17 @@ El análisis proporciona una visión detallada sobre cómo varían las longitude
 Las contribuciones son bienvenidas. Si deseas colaborar, por favor crea un fork del repositorio y envía un pull request con tus mejoras o sugerencias.
 
 ## Referencias
-Allison M Horst, Alison Presmanes Hill, & Kristen B Gorman. (2020). allisonhorst/palmerpenguins: v0.1.0 (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.3960218
+
+- **Conjuntos de Datos**:
+  - `blood`: Disponible a través de la librería `UsingR`.
+  - `penguins`: Proporcionado por la librería `palmerpenguins`.
+
+- **Librerías**:
+  - `UsingR`: [GitHub](https://github.com/ckb/UsingR)
+  - `palmerpenguins`: [GitHub](https://github.com/allisonhorst/palmerpenguins)
+  - `tidyverse`: [Tidyverse](https://www.tidyverse.org/)
+  - `car`: [CRAN](https://cran.r-project.org/web/packages/car/index.html)
+  - `lattice`: [CRAN](https://cran.r-project.org/web/packages/lattice/index.html)
+  - `multcomp`: [CRAN](https://cran.r-project.org/web/packages/multcomp/index.html)
+  - `FSA`: [CRAN](https://cran.r-project.org/web/packages/FSA/index.html)
+  - `ggstatsplot`: [GitHub](https://github.com/IndrajeetPatil/ggstatsplot)
