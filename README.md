@@ -16,3 +16,6 @@ El análisis proporciona una visión detallada sobre cómo varían las longitude
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas colaborar, por favor crea un fork del repositorio y envía un pull request con tus mejoras o sugerencias.
+
+## Referencias
+Allison M Horst, Alison Presmanes Hill, & Kristen B Gorman. (2020). allisonhorst/palmerpenguins: v0.1.0 (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.3960218
